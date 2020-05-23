@@ -1,5 +1,5 @@
 # Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
-# This script makes the following:
+This script makes the following:
 # Preparation: download the Samsung Wearable zip file (if needed)        
 # 1) Merge the training and the test files to create one dataset
 # 2) Extract only columns with mean and standard deviation measurements
